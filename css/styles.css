@@ -1,6 +1,29 @@
 .logo {
   float: left;
 }
-.header-nav {
+.page-header {
+  background-color: black;
+  margin: 0px;
+}
+.nav {
   float: right;
+  color: white;
+}
+.body {
+  background-color: brown;
+  margin-top: 0px;
+  color: blanchedalmond;
+  text-align: center;
+}
+.jumbotron {
+  margin: 0px;
+  color: black;
+  background-color: lightgrey;
+}
+#img {
+  position: relative;
+}
+#jumbotron2 {
+  color: blanchedalmond;
+  background-color: brown;
 }
