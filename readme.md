@@ -5,5 +5,5 @@ and styled using Bootstrap and CSS.**
 
 #### Contacts
 *Contact me on:*
-1. gmail
-    *gmbugua38@gmail.com
+1. Gmail
+    * gmbugua38@gmail.com
