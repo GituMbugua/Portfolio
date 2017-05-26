@@ -65,6 +65,16 @@ ul {
   color: blanchedalmond;
   font-size: 200%;
 }
+.sub {
+  font-size: 30%;
+}
+.jumbotron3 a {
+  color: #9999ff;
+}
+.jumbotron3 ul {
+  text-align: left;
+}
+
 .jumbotron4 {
   background-color: #bf8040;
   text-align: center;
