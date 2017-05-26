@@ -8,6 +8,10 @@
 .nav {
   float: right;
   color: white;
+  text-decoration: none;
+}
+span {
+  margin: 20px;
 }
 .body {
   background-color: brown;
@@ -22,6 +26,7 @@
 }
 #img {
   position: relative;
+  float: left;
 }
 #jumbotron2 {
   color: blanchedalmond;
