@@ -3,7 +3,11 @@
 }
 .page-header {
   background-color: black;
-  margin: 0px;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  padding-top: 0.5%;
+  color: white;
+  font-size: 200%;
 }
 .nav {
   float: right;
@@ -14,6 +18,7 @@ span {
   margin: 20px;
 }
 .body {
+  font-family: fantasy;
   background-color: brown;
   margin-top: 0px;
   color: blanchedalmond;
@@ -24,11 +29,15 @@ span {
   color: black;
   background-color: lightgrey;
 }
-#img {
-  position: relative;
-  float: left;
+p {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 200%;
 }
 #jumbotron2 {
   color: blanchedalmond;
   background-color: brown;
+  padding-bottom: 2%;
 }
